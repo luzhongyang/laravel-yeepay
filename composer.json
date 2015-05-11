@@ -1,0 +1,20 @@
+{
+    "name": "luzhongyang/laravel-yeepay",
+    "description": "yeepay",
+    "type": "yeepay",
+    "require": {
+        "luzhongyang/yeepay": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "luzhongyang",
+            "email": "luzhongyang@touzila.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "LaravelYeepay\\": "src/LaravelYeepay/"
+        }
+    }
+}
